@@ -13,4 +13,4 @@ import pikepdf as pike
 
 
 pdf = pike.open('input.pdf')
-pdf.save('output.pdf')
+pdf.save('output - Unlocked.pdf')
