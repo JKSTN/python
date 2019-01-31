@@ -2,7 +2,7 @@
 import os
 
 
-Wanted_WD = "/Users/Stevenson/Desktop"
+Wanted_WD = "~"
 
 
 os.chdir(Wanted_WD)
